@@ -1,0 +1,4 @@
+Hello, I am using VIM.
+I am leaning git and githu
+
+I have commied and edited a file called test.txt. This is our first file which  we will track using git. 
