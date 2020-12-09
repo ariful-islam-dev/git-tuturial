@@ -1,1 +1,2 @@
-Some text From Mster
+ 
+Merge Conflict will happen
